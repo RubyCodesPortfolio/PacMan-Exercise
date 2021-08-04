@@ -4,7 +4,7 @@ This project has been created with the intention of creating a PacMan animation 
 
 Use the code and images provided to create your own animation.
 
-###License information:
+### License information:
 
 MIT License
 
